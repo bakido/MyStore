@@ -1,0 +1,14 @@
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\bin\Debug\netcoreapp2.2\Client.dll
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\bin\Debug\netcoreapp2.2\Client.pdb
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\obj\Debug\netcoreapp2.2\Client.RazorAssemblyInfo.cache
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\obj\Debug\netcoreapp2.2\Client.RazorAssemblyInfo.cs
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\obj\Debug\netcoreapp2.2\Client.RazorTargetAssemblyInfo.cache
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\obj\Debug\netcoreapp2.2\Client.dll
+C:\Users\NtsOba01\Source\Repos\MyStore\Client\obj\Debug\netcoreapp2.2\Client.pdb

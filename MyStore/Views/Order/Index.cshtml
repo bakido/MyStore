@@ -1,0 +1,44 @@
+﻿@model IEnumerable<MyStore.ViewModel.OrderViewModel>
+
+@{
+    ViewData["Title"] = "MyStore";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    Total number of items in cart is @ViewBag.TotalItemsInCart. @Html.ActionLink("view Items in cart", "viewItemsInCart", "Order")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+          
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                <a asp-action="AddItemToCart" asp-route-id="@item.ProductId">Add to cart</a> |
+             </td>
+        </tr>
+}
+    </tbody>
+</table>
